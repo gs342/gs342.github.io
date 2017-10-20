@@ -1,0 +1,15 @@
+# Site settings
+title: Kan`s blog
+name: Kan # your name
+email: kanfengml01@aliyun.com # your email address
+description: >
+    A Simple Jekyll Blog Theme. # this means to ignore newlines until "baseurl:"
+baseurl: "/Nice_Blog" # the subpath of your site, e.g. /blog
+url: "https://itisbenjamin.github.io" # the base hostname & protocol for your site
+
+
+skillstree: true # turn on or off the skills tree in about page
+
+# Build settings
+permalink: none
+markdown: kramdown
